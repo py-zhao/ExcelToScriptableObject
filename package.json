@@ -1,0 +1,20 @@
+{
+  "author": {
+    "email": "1191481036@qq.com",
+    "name": "py-zhao",
+    "url": "https://github.com/py-zhao/ExcelToScriptableObject"
+  },
+  "dependencies": {
+  },
+  "description": "",
+  "displayName": "Excel To ScriptableObject",
+  "documentation": "https://github.com/py-zhao/ExcelToScriptableObject",
+  "keywords": [
+  ],
+  "name": "com.py-zhao.exceltoscriptableobject",
+  "publishConfig": {
+    "registry": "https://github.com/py-zhao/ExcelToScriptableObject"
+  },
+  "unity": "2019.3",
+  "version": "0.0.1"
+}
